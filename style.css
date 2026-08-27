@@ -42,12 +42,12 @@ h2 {
   font-weight: 900;
   letter-spacing: -0.04em;
   text-transform: uppercase;
-  color: #f8b3d6;
+  color: #f5268d;
 }
 
 .content > p {
   margin: 0;
-  color: #efa7f1;
+  color: #f361f8;
   font-size: 0.9rem;
   text-transform: uppercase;
   letter-spacing: 0.15em;
@@ -123,7 +123,7 @@ nav {
   align-items: center;
   margin-bottom: 48px;
   padding: 16px 24px;
-  background: #fff;
+  background: #93f8da;
   border: 1px solid #e0e0e0;
   border-radius: 12px;
 }
@@ -134,7 +134,7 @@ nav h1 {
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.2em;
-  color: #000;
+  color: #fd82de;
 }
 
 #nav-ul {
@@ -146,7 +146,7 @@ nav h1 {
 }
 
 .nav-li a {
-  color: #666;
+  color: #77acfd;
   text-decoration: none;
   font-size: 0.85rem;
   font-weight: 500;
@@ -159,7 +159,7 @@ nav h1 {
 
 .nav-li a:hover {
   background: #000;
-  color: #fff;
+  color: #a672fc;
 }
 /* Portfolio styles */
 .content h1 {
@@ -186,19 +186,19 @@ nav h1 {
   justify-content: space-between;
   align-items: center;
   text-decoration: none;
-  color: #444;
+  color: #ff0062;
   padding: 16px 20px;
   font-size: 1.1rem;
   font-weight: 500;
-  background: #fff;
-  border: 1px solid #e0e0e0;
+  background: #80f1bd;
+  border: 1px solid #5fdaf0;
   border-radius: 12px;
   transition: background 0.25s ease, color 0.25s ease, transform 0.25s ease;
 }
 
 #portfolio a:hover {
   background: #000;
-  color: #fff;
+  color: #78aaf5;
   transform: translateX(4px);
 }
 
