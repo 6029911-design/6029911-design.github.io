@@ -5,7 +5,7 @@
 body {
   margin: 0;
   background: #bbf3f0;
-  color: #fcc3d9;
+  color: #0452fa;
   font-family: "Helvetica Neue", Arial, sans-serif;
 }
 
@@ -82,7 +82,7 @@ h2 {
   font-weight: 600;
   padding: 10px 20px;
   background: #6dc8ec;
-  border: 1px solid #75a6f0;
+  border: 1px solid #f075c1;
   border-radius: 100px;
   transition:
     background 0.25s ease,
@@ -105,7 +105,7 @@ h2 {
   object-fit: cover;
   display: block;
   border-radius: 16px;
-  box-shadow: 0 16px 40px rgba(0, 0, 0, 0.12);
+  box-shadow: 0 16px 40px rgb(130, 122, 238);
   transition:
     filter 0.4s ease,
     transform 0.4s ease,
@@ -115,7 +115,7 @@ h2 {
 .sidebar-img:hover {
   filter: grayscale(0%);
   transform: translateY(-4px);
-  box-shadow: 0 8px 30px rgba(130, 235, 212, 0.18);
+  box-shadow: 0 8px 30px rgba(130, 235, 212, 0.911);
 }
 nav {
   display: flex;
@@ -158,12 +158,12 @@ nav h1 {
 }
 
 .nav-li a:hover {
-  background: #000;
+  background: #d49bee;
   color: #a672fc;
 }
 /* Portfolio styles */
 .content h1 {
-  color: black;
+  color: rgb(245, 127, 239);
 }
 
 #portfolio {
@@ -197,7 +197,7 @@ nav h1 {
 }
 
 #portfolio a:hover {
-  background: #000;
+  background: #f188db;
   color: #78aaf5;
   transform: translateX(4px);
 }
