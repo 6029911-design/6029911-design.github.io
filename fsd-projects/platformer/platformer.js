@@ -39,13 +39,15 @@ $(function () {
    createPlatform(400, 300, 300, 10, "hotpink");
    createPlatform(100, 200, 300, 10, "hotpink");
     // TODO 3 - Create Collectables
-  createCollectable("steve", 700, 395);
-
+   createCollectable("steve", 200, 185);
+   createCollectable("steve", 800, 385);
+  createCollectable("diamond", 500, 280);
 
     
     // TODO 4 - Create Cannons
-
-
+  createCannon("top", 200, 500);
+  createCannon("right", 300, 2000);
+  createCannon("top", 900, 900);
     
     
     //////////////////////////////////
